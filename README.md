@@ -9,4 +9,4 @@ A skeletal rig compliant to Redot's SkeletalHumanoidProfile specification. Makes
 3. A clean .blend file; no actions, materials, textures, etc. to sift through muddying up the file, making it easy to export to Redot.
 
 ## IK chains included:
-... for head, eyes, jaw, arms, fingers (thumbs and trigger fingers separately), legs, feet, and toes.
+IK chains included for head, eyes, jaw, arms, fingers (thumbs and trigger fingers separately), legs, feet, and toes.

@@ -1,5 +1,5 @@
 # Redot Humanoid Skeleton
-A skeletal rig compliant to Redot's SkeletalHumanoidProfile specification to allow for easy animation retargeting for games. Also includes basic IK chain setups for head, eyes, jaw, arms, fingers (thumbs and trigger fingers separately), legs, feet, and toes.
+A skeletal rig compliant to Redot's SkeletalHumanoidProfile specification. Makes animation retargeting easier for your games. Also includes basic IK chain setups for head, eyes, jaw, arms, fingers (thumbs and trigger fingers separately), legs, feet, and toes.
 
 ![Screenshot](redot_humanoid_skeleton.png)
 
